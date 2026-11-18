@@ -107,6 +107,7 @@ If it doesn't upload (like it did for me), try double-clicking reset on the boar
 Credits:
 
 Claude gave me advice for writing firmware
+Claude also wrote an upload file to fix an issue on my computer where Arduino wasn't uploading the sketch. I originally included the file in the repo but removed it after further evaluation. Everything currently in the repo is mine.
 
 See "External" folder for all the files, models, and libraries I used!
 
