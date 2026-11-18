@@ -107,5 +107,15 @@ If that doesn't work, go to the firmware folder, read the README.md in that fold
 
 
 Credits:
+
+
+
+Arduino upload file was written by Claude
+
+Firmware written by me
+
+3D modelled, sketched out, planned, designed by me :D
+
+
 See "External" folder for all the files, models, and libraries I used!
 
