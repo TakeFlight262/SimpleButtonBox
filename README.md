@@ -4,7 +4,7 @@ A simple button box, designed for my simracing rig. Includes 9 mechanical key sw
 
 
 
-!\[Screenshot](<Renders/SimpleButtonBoxRender.png>)
+![Screenshot](<Renders/SimpleButtonBoxRender.png>)
 
 
 
@@ -31,7 +31,7 @@ Assembly:
 
 
 
-!\[Screenshot](<Renders/Screenshot 2026-11-18 132856.png>)
+![Screenshot](<Renders/Screenshot 2026-11-18 132856.png>)
 
 
 
@@ -63,11 +63,11 @@ Switches share ground and solder to pins 9, 10, 14, 15. Change the code if you w
 
 
 
-!\[Screenshot](<Renders\\Screenshot 2026-11-18 113445.png>)
+![Screenshot](<Renders/Screenshot 2026-11-18 113445.png>)
 
 
 
-!\[Screenshot](<Renders\\Screenshot 2026-11-18 113425.png>)
+![Screenshot](<Renders/Screenshot 2026-11-18 113425.png>)
 
 
 
@@ -79,7 +79,7 @@ If you're printing/using the PCB:
 
 
 
-!\[Screenshot](<Renders\\Screenshot 2026-11-18 113838.png>)
+![Screenshot](<Renders/Screenshot 2026-11-18 113838.png>)
 
 
 
