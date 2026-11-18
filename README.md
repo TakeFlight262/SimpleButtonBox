@@ -102,20 +102,11 @@ Select "Tools>Board>Arduino AVR Boards>Arduino Leonardo"
 Make sure you select the right COM port, then compile and upload.
 
 If it doesn't upload (like it did for me), try double-clicking reset on the board (or connecting GND and RST twice quickly) right before Arduino IDE uploads.
-If that doesn't work, go to the firmware folder, read the README.md in that folder, and follow the instructions (I had Claude write the script to fix the uploading issue).
-
 
 
 Credits:
 
-
-
-Arduino upload file was written by Claude
-
-Firmware written by me
-
-3D modelled, sketched out, planned, designed by me :D
-
+Claude gave me advice for writing firmware
 
 See "External" folder for all the files, models, and libraries I used!
 
