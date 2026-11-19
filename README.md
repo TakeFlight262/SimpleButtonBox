@@ -90,6 +90,26 @@ NOTE!!: If you're using the plastic PCB file, you have to be careful about solde
 Once everything is soldered, you can slide the PCB onto the mounting pegs in the bottom case. You can add hot glue, superglue, or whatever you need. Just make sure to secure the board.
 
 
+For the toggle switches, take off the hex nut and washer, slide the switch through the hole, screw on the hex nut and washer (washer on bottom), then turn the switch body while holding the hex nut> Or use a wrench to secure the hex nut. You can do this either vertically or horizontally, depending on how you want to mount the box (so the switches should always be up, but relative to the short side of the box). I mounted the box vertically, so the switches pointed towards/away from the buttons. You can also do it perpendicular (horizontal button box mounting). 
+
+Once the toggle switches are on the lid, solder them to the PCB board.
+
+I mentioned earlier that the lid is press fit. I ended up finding that that did not work! So I drilled two holes on either end. I drove a M2.5 x 8 screw in. It should be a pretty snug fit for the screw. It required a bit of force to screw in. If you want to use magnets or something else, screws are not necessary, but I 100% recommend them.
+
+I also added hot glue around the PCB supports, just to make sure that those fragile supports don't bend or snap when unplugging/plugging the USB-C cable. But again, optional. 
+
+If you find that the buttons don't spring back up, take a pen spring or similar sized springs, use pliers to expand their diameter, then slide them over the 3D printed buttons. I found that it made the buttons feel squishy, so I didn't end up using them> but if you like the added stiffness, then add them. It also might work better with a proper PCB, so I think that is important to note as well.
+
+VERY IMPORTANT: Please be careful when gluing the PCB in, because the USB-C cable might not be able to reach inside if you do it wrong!!
+
+Also note that I did not secure the PCB board, finding that it was ok, but you might need to. The electrical tape I put on the toggle switches ended up being stiff enough to push the board into place, so i found it to be ok. But again, you might need it.
+
+I also found that if the switches are tilted at all and the buttons rub against the lid, you can hold the switch in place until it's straight, then add hot glue to secure it. But again, not sure if you'll need that with a regular PCB.
+
+One FINAL thing: I printed the lid at 100.5%, so I'd recommend doing that, though slightly lower might be ok (my XY compensation was about -2.5mm, so take that into account).
+
+Ok that's all, thanks for reading!
+
 
 Firmware:
 
