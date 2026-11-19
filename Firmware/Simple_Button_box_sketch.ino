@@ -74,5 +74,4 @@ void loop() {
   Joystick.setButton(12, !digitalRead(sw2_down));
 
   Joystick.sendState();
-  delay(2);
 }
