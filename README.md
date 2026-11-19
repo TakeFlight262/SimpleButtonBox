@@ -4,9 +4,9 @@ A simple button box, designed for my simracing rig. Includes 9 mechanical key sw
 
 
 
-![Screenshot](<Renders/SimpleButtonBoxRender.png>)
+![Screenshot](<Renders + Images/SimpleButtonBoxRender.png>)
 
-
+![Screenshot](<Renders + Images/IMG_4494.png>)
 
 I've wanted to have a button box for extra inputs on my simracing rig for awhile, so I finally made one!
 
@@ -31,7 +31,7 @@ Assembly:
 
 
 
-![Screenshot](<Renders/Screenshot 2026-11-18 132856.png>)
+![Screenshot](<Renders + Images/Screenshot 2026-11-18 132856.png>)
 
 
 
@@ -63,11 +63,11 @@ Switches share ground and solder to pins 9, 10, 14, 15. Change the code if you w
 
 
 
-![Screenshot](<Renders/Screenshot 2026-11-18 113445.png>)
+![Screenshot](<Renders + Images/Screenshot 2026-11-18 113445.png>)
 
 
 
-![Screenshot](<Renders/Screenshot 2026-11-18 113425.png>)
+![Screenshot](<Renders + Images/Screenshot 2026-11-18 113425.png>)
 
 
 
@@ -79,7 +79,7 @@ If you're printing/using the PCB:
 
 
 
-![Screenshot](<Renders/Screenshot 2026-11-18 113838.png>)
+![Screenshot](<Renders + Images/Screenshot 2026-11-18 113838.png>)
 
 
 
@@ -93,6 +93,8 @@ Once everything is soldered, you can slide the PCB onto the mounting pegs in the
 For the toggle switches, take off the hex nut and washer, slide the switch through the hole, screw on the hex nut and washer (washer on bottom), then turn the switch body while holding the hex nut> Or use a wrench to secure the hex nut. You can do this either vertically or horizontally, depending on how you want to mount the box (so the switches should always be up, but relative to the short side of the box). I mounted the box vertically, so the switches pointed towards/away from the buttons. You can also do it perpendicular (horizontal button box mounting). 
 
 Once the toggle switches are on the lid, solder them to the PCB board.
+
+![Screenshot](<Renders + Images/IMG_4489.png>)
 
 I mentioned earlier that the lid is press fit. I ended up finding that that did not work! So I drilled two holes on either end. I drove a M2.5 x 8 screw in. It should be a pretty snug fit for the screw. It required a bit of force to screw in. If you want to use magnets or something else, screws are not necessary, but I 100% recommend them.
 
