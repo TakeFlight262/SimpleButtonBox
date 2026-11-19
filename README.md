@@ -125,7 +125,7 @@ Make sure you select the right COM port, then compile and upload.
 
 If it doesn't upload (like it did for me), try double-clicking reset on the board (or connecting GND and RST twice quickly) right before Arduino IDE uploads.
 
-![Screenshot](<Renders + Images/ IMG_4497.png)
+![Screenshot](<Renders + Images/IMG_4497.png>)
 
 
 Credits:
